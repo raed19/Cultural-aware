@@ -1,5 +1,5 @@
 # Cultural-aware Machine Learning based Analysis of COVID-19 Vaccine Hesitancy
-This is the source code for the paper: Cultural-aware Machine Learning based Analysis of COVID-19 Vaccine Hesitancy
+This is the source code for the paper: Cultural-aware Machine Learning based Analysis of COVID-19 Vaccine Hesitancy by Raed Alharbi, Sylvia Chan-Olmsted, Huan Chen, My T Thai, ICC 2023
 
 
 Required libraries: 
